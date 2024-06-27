@@ -1,8 +1,4 @@
 {
-
-  "host": "0.0.0.0",
-  "port": 7777,
-
   "keyLength": 10,
 
   "maxLength": 400000,
